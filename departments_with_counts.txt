@@ -1,0 +1,94 @@
+MATHEMATICS                         227
+BIOLOGY                             153
+WRITING                             152
+HISTORY                             145
+ENGLISH                             131
+PSYCHOLOGY                          127
+STATISTICS                          123
+SOCIOLOGY                           116
+ECONOMICS                           111
+CHEMISTRY                           101
+PHILOSOPHY                          95
+MUSIC                               93
+PHYSICS                             91
+COMPUTER SCIENCE                    91
+COMMUNICATION                       86
+GEOGRAPHY                           84
+POLITICAL SCIENCE                   79
+ANTHROPOLOGY                        76
+ENGINEERING                         68
+LANGUAGES                           65
+ART                                 56
+FILM                                56
+GEOLOGY                             55
+EDUCATION                           55
+SPANISH                             54
+RELIGION                            47
+RELIGIOUS STUDIES                   47
+ENVIRONMENTAL SCIENCE & MGMT.       47
+THEATER                             45
+LINGUISTICS                         45
+CLASSICS                            41
+LITERATURE                          36
+MECHANICAL ENGINEERING              34
+FINE ARTS                           33
+ELECTRICAL & COMP. ENGINEERING      31
+SCIENCE                             30
+GLOBAL STUDIES                      29
+CHICANO STUDIES                     28
+ETHNIC STUDIES                      27
+FEMINIST STUDIES                    27
+SPANISH & PORTUGUESE                26
+WOMEN'S STUDIES                     24
+CHEMICAL ENGINEERING                22
+BLACK STUDIES                       22
+FRENCH                              21
+ART HISTORY                         19
+EAST ASIAN LANGUAGES & CULTURES     17
+GERMANIC & RUSSIAN STUDIES          17
+BUSINESS                            15
+ASIAN AMERICAN STUDIES              14
+LAW                                 12
+FRENCH & ITALIAN                    12
+SOCIAL SCIENCE                      11
+ACCOUNTING                          9
+EXERCISE & SPORT STUDIES            9
+ENVIRONMENTAL SCIENCE  MGMT.        8
+AFRICAN-AMERICAN STUDIES            8
+SPANISH  PORTUGUESE                 8
+PHYSICAL ED                         8
+COMPARATIVE LITERATURE & LANG       7
+ELECTRICAL  COMP. ENGINEERING       7
+HUMANITIES                          7
+GLOBAL & INTERNATIONAL STUDIES      6
+BIOCHEMISTRY                        5
+FRENCH  ITALIAN                     5
+INFORMATION SCIENCE                 5
+PHYSICAL EDUCATION                  5
+ENVIRONMENTAL SCIENCE               4
+ENVIRONMENTAL SCIENCE AMP MGMT.     4
+MANAGEMENT                          4
+INTERNATIONAL STUDIES               4
+EXERCISE  SPORT STUDIES             3
+GERMANIC AMP RUSSIAN STUDIES        3
+ELECTRICAL AMP COMP. ENGINEERING    3
+FINANCE                             3
+HEALTH SCIENCE                      3
+ADVISOR                             3
+MARKETING                           3
+ARCHITECTURE                        2
+GERMANIC  RUSSIAN STUDIES           2
+THEOLOGY                            2
+GLOBAL  INTERNATIONAL STUDIES       2
+LIFE SCIENCE                        1
+EAST ASIAN LANGUAGES AMP CULTURES   1
+GRAPHIC ARTS                        1
+EXERCISE AMP SPORT STUDIES          1
+ENVIRONMENTAL STUDIES               1
+MEDIA ARTS                          1
+MEDICINE                            1
+CRIMINAL JUSTICE                    1
+SPANISH AMP PORTUGUESE              1
+NURSING                             1
+DESIGN                              1
+SOCIAL WORK                         1
